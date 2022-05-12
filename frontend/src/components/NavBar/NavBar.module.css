@@ -1,0 +1,21 @@
+* {
+	color: white;
+	text-decoration: none;
+}
+ul {
+	background-color: green;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+	list-style-type: none;
+	display: flex;
+}
+li {
+	display: flex;
+	text-align: center;
+	font-size: 30px;
+	padding-left: 25px;
+}
+li :hover {
+	background-color: aquamarine;
+}
